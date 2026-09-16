@@ -1,6 +1,10 @@
-# Awesome-Learning-Management-System
+# 🎓 Awesome Learning Management System (LMS)
 
-## Top Learning Management System (LMS) Platforms Ecosystem
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+![Awesome LMS Banner](./assets/banner.svg)
+
+## 🚀 Top Learning Management System (LMS) Platforms & EdTech Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
@@ -8,248 +12,121 @@
 
 **Last updated: September 2026**
 
+---
 
+This repository tracks notable **SaaS platforms**, **cloud LMS products**, and **open-source projects** for **Learning Management Systems (LMS)**. These platforms enable course delivery, content creation, student enrollment, assessments, grading, analytics, progress tracking, and learner engagement across schools, universities, enterprise corporate training, and vocational institutions.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Learning Management Systems (LMS)**. These systems manage courses, content delivery, enrollment, assessments, grading, progress tracking, and learner engagement across education and corporate training.
-
-
-
-**Examples** include Google Classroom, Canvas LMS, Schoology, MoodleCloud, Blackboard Learn, D2L Brightspace, itslearning, ClassDojo, Otus, PowerSchool Learning, Absorb LMS, TalentLMS, Docebo, LearnUpon, iSpring Learn, Thinkific Plus, and Cornerstone Learning (the category leaders).
-
-
-
-**Open-source emphasis**: LMS has some of the strongest open-source options in edtech. **Moodle**, **Open edX**, **Canvas LMS** (self-hosted), **Chamilo**, and **Sakai** are mature, widely deployed platforms. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Google Classroom](https://classroom.google.com/)**  
-
-  Free/simple class management and assignment tool tightly integrated with Google Workspace, widely used in K-12 and smaller education settings.
-
-
-
-- **[Canvas LMS (Instructure)](https://www.instructure.com/canvas)**  
-
-  Modern, intuitive LMS popular in higher education and K-12, with strong usability, mobile support, and a large ecosystem (also available as open-source self-hosted).
-
-
-
-- **[Schoology (PowerSchool)](https://www.schoology.com/)**  
-
-  K-12 focused learning management and social learning platform with assessment, collaboration, and parent engagement features.
-
-
-
-- **[MoodleCloud](https://moodle.com/)**  
-
-  Hosted version of Moodle offering managed open-source LMS instances for organizations that prefer not to self-host.
-
-
-
-- **[Blackboard Learn](https://www.anthology.com/)**  
-
-  Long-standing enterprise LMS used by many large universities and institutions, with deep analytics, accessibility, and administrative tools.
-
-
-
-- **[D2L Brightspace](https://www.d2l.com/)**  
-
-  Next-generation LMS emphasizing adaptive learning, competency-based education, analytics, and personalized student experiences.
-
-
-
-- **[itslearning](https://itslearning.com/)**  
-
-  Learning platform used especially in European education markets for course management, assessment, and collaboration.
-
-
-
-- **[ClassDojo](https://www.classdojo.com/)**  
-
-  Classroom communication and engagement platform popular in elementary education, with behavior, messaging, and simple learning features.
-
-
-
-- **[Otus](https://otus.com/)**  
-
-  K-12 student performance and learning platform combining assessment, gradebook, and learning management capabilities.
-
-
-
-- **[PowerSchool Learning](https://www.powerschool.com/)**  
-
-  Part of the broader PowerSchool suite supporting K-12 learning management and student information workflows.
-
-
-
-- **[Absorb LMS](https://www.absorblms.com/)**  
-
-  Corporate LMS focused on employee training, compliance, and engaging learner experiences.
-
-
-
-- **[TalentLMS](https://www.talentlms.com/)**  
-
-  Cloud LMS aimed at businesses for creating, delivering, and tracking training courses with a straightforward interface.
-
-
-
-- **[Docebo](https://www.docebo.com/)**  
-
-  AI-powered learning platform with strong LMS capabilities for corporate and extended-enterprise training.
-
-
-
-- **[LearnUpon](https://www.learnupon.com/)**  
-
-  Customer and employee training LMS popular with mid-market organizations for multi-audience learning.
-
-
-
-- **[iSpring Learn](https://www.ispringsolutions.com/)**  
-
-  LMS paired with authoring tools for creating and delivering SCORM-compliant corporate training.
-
-
-
-- **[Thinkific Plus](https://www.thinkific.com/)**  
-
-  Course creation and LMS platform oriented toward creators, coaches, and businesses selling online learning.
-
-
-
-- **[Cornerstone Learning](https://www.cornerstoneondemand.com/)**  
-
-  Enterprise learning module within the Cornerstone talent suite for compliance and professional development training.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Moodle](https://github.com/moodle/moodle)**  
-
-  The world’s most widely used open-source LMS. Highly customizable with thousands of plugins, used across education and corporate training in 200+ countries.
-
-
-
-- **[Open edX](https://github.com/openedx/edx-platform)**  
-
-  Community-driven open-source platform that powers large-scale online learning (including edX.org). Strong for MOOCs, XBlocks, and extensible course experiences.
-
-
-
-- **[Canvas LMS (open source)](https://github.com/instructure/canvas-lms)**  
-
-  The open-source edition of Canvas by Instructure, released under AGPLv3. Offers modern UX and can be self-hosted by institutions with technical capacity.
-
-
-
-- **[Chamilo](https://github.com/chamilo/chamilo-lms)**  
-
-  Open-source e-learning and collaboration platform suitable for schools, NGOs, and organizations seeking a lighter, accessible LMS.
-
-
-
-- **[Sakai](https://github.com/sakaiproject/sakai)**  
-
-  Open-source learning and collaboration platform traditionally strong in higher education and research institutions.
-
-
-
-- **[ILIAS](https://github.com/ILIAS-eLearning/ILIAS)**  
-
-  Mature open-source LMS with strong presence in Europe, supporting courses, assessments, and portfolio features.
-
-
-
-- **[OpenOLAT](https://github.com/OpenOLAT/OpenOLAT)**  
-
-  Open-source learning management system focused on higher education and professional training with modern architecture.
-
-
-
-- **[Totara / Moodle Workplace community efforts](https://github.com/)**  
-
-  Enterprise-oriented distributions and community projects extending Moodle for workplace learning and compliance.
-
-
-
-- **[Forma LMS](https://github.com/)**  
-
-  Open-source LMS descended from Docebo community editions, aimed at corporate and association training.
-
-
-
-- **[Oppia and interactive learning open projects](https://github.com/)**  
-
-  Open platforms focused on interactive, tutor-style learning experiences that can complement traditional LMS use.
-
-
-
-### Additional Strong Open-Source Options
-
-- Starting with **Moodle** for maximum flexibility, plugin ecosystem, and global community support.
-
-- Choosing **Open edX** when building large-scale or MOOC-style online programs.
-
-- Self-hosting **Canvas LMS** when the modern Canvas UX is desired with full data control.
-
-- Using **Chamilo** or **Sakai** for lighter or higher-education-focused deployments.
-
-- Accepting that polished hosted experiences, deep K-12 integrations, advanced AI features, and turnkey corporate compliance still favor commercial platforms (Canvas SaaS, Blackboard, Brightspace, Docebo, Absorb, TalentLMS, etc.).
-
-- Combining open LMS cores with commercial content libraries or LXP layers for hybrid solutions.
-
-
-
-**Frameworks for building custom systems**: Deploy Moodle or Open edX → configure courses, roles, and assessments → add plugins for LTI, xAPI, or e-commerce → theme and integrate with identity providers → monitor with open analytics tools. Suitable for universities, school districts, governments, and organizations with technical capacity. Many institutions and companies continue to choose commercial LMS for support SLAs and faster time-to-value.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Learning platforms process student and employee data and must meet privacy, accessibility (e.g., WCAG), and (in many jurisdictions) education-specific regulations. Open-source deployments require proper security, hosting, and governance. This list is not educational, HR, or compliance advice.
-
-
+Whether you are looking for enterprise commercial LMS solutions like Canvas LMS, Blackboard Learn, and Google Classroom, or robust self-hosted open-source software like Moodle and Open edX, this comprehensive directory provides structural market insights, pricing starting points, free plan limits, revenue/valuation scale, and GitHub community metrics.
 
 ---
 
-**Made for educators, instructional designers, L&D teams, and learning technologists who need reliable course delivery.**
+## 📑 Table of Contents
+- [📊 Market Overview & Industry Structure](#-market-overview--industry-structure)
+- [💼 SaaS & Cloud LMS Platforms](#-saas--cloud-lms-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Decision Guide: Open Source vs SaaS](#-decision-guide-open-source-vs-saas)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 
-Let's keep learning management flexible, accessible, and as open as practical.
+---
+
+## 📊 Market Overview & Industry Structure
+
+> 💡 **Market Size & Fragment Dynamics**: The global Learning Management System (LMS) market size is estimated at **~$22.1 Billion (2026)** and is projected to surpass **$45 Billion by 2030** (CAGR ~17.5%). The LMS sector is **moderately fragmented**: higher education and enterprise segments are dominated by a handful of established leaders (Instructure Canvas, Anthology/Blackboard, D2L, Cornerstone, Docebo), while K-12, creator platforms, and niche corporate training exhibit high fragmentation with hundreds of specialized SaaS contenders.
+
+---
+
+## 💼 SaaS & Cloud LMS Platforms
+
+Below is a detailed breakdown of top commercial and SaaS LMS vendors, sorted in **descending order by company scale** (estimated valuation or annual revenue).
+
+| Vendor / Platform | Company / Issuer | Market Scale / Valuation / Revenue (Desc) | Starting Tier Price | Free Tier / Trial Limit | Key Focus & Capabilities |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Google Classroom](https://classroom.google.com/)** | Google (Alphabet Inc.) | ~$2.0 Trillion (Market Cap) | $3.00/user/month (Education Standard / Plus) | Free forever (100% free for eligible K-12 & higher-ed institutions with Google Workspace for Education Fundamentals) | Free & simple class management, assignments, and grading tool tightly integrated with Google Docs & Drive. |
+| **[Cornerstone Learning](https://www.cornerstoneondemand.com/)** | Clearlake Capital / Cornerstone | ~$5.2 Billion (Acquisition Valuation) | ~$6.00/user/month (Enterprise L&D contracts) | 14-Day Free Trial (Limited enterprise demo sandbox upon request) | Enterprise learning module within Cornerstone HR & talent suite for compliance and professional development. |
+| **[Canvas LMS](https://www.instructure.com/canvas)** | Instructure (KKR / Thoma Bravo) | ~$4.8 Billion (Valuation) | ~$5.50/user/year (Institutional enterprise licensing) | Free forever (Free Teacher Account with up to 250 MB course storage and essential grading features) | Dominant LMS in higher education and K-12 with modern UX, LTI integrations, and mobile learning apps. |
+| **[PowerSchool Learning / Schoology](https://www.powerschool.com/)** | PowerSchool (Onex / Vista Equity) | ~$4.2 Billion (Acquisition Valuation) | ~$5.00/student/year (School district package) | 14-Day Free Trial (District sandbox demo available upon administrative request) | Comprehensive K-12 learning management and social learning platform with assessment & SIS integration. |
+| **[Blackboard Learn](https://www.anthology.com/)** | Anthology Inc. | ~$3.0 Billion (Valuation) | ~$9,000/year (Base institution license starting tier) | 30-Day Free Trial (Instructor Course Preview sandbox access) | Enterprise-grade university LMS with deep analytics, accessibility compliance tools, and multi-tenant management. |
+| **[Docebo](https://www.docebo.com/)** | Docebo Inc. (NASDAQ: DCBO) | ~$1.6 Billion (Market Cap) | $25,000/year (Enterprise baseline starting tier for up to 500 active users) | 14-Day Free Trial (Full feature trial with sample course assets, no credit card required) | AI-powered corporate learning platform built for employee onboarding, customer education, and partner training. |
+| **[D2L Brightspace](https://www.d2l.com/)** | D2L Inc. (TSX: DTOL) | ~$850 Million (Valuation / Market Cap) | ~$7.00/user/year (Enterprise educational licensing) | 30-Day Free Trial (Full access teacher sandbox for course building and testing) | Next-generation LMS emphasizing outcome-based education, adaptive learning paths, and learning analytics. |
+| **[Absorb LMS](https://www.absorblms.com/)** | Absorb Software (Welsh, Carson, Anderson & Stowe) | ~$500 Million (Valuation) | $800/month (~$9,600/year base tier for up to 100 users) | 14-Day Free Trial (Interactive sandbox trial upon enterprise request) | High-performance corporate LMS optimized for compliance, employee development, and external customer training. |
+| **[ClassDojo](https://www.classdojo.com/)** | ClassDojo Inc. | ~$1.25 Billion (Valuation) | $4.99/month (ClassDojo Plus for family features) | Free forever (100% free for all teachers, school administrators, and classrooms worldwide) | Elementary school classroom communication and engagement app with behavior points, portfolios, and parent messaging. |
+| **[Thinkific Plus](https://www.thinkific.com/)** | Thinkific Systems Inc. (TSX: THNC) | ~$250 Million (Valuation / Market Cap) | $36/month (Basic Tier billed annually) | Free forever (Free plan allows 1 course, 1 admin, unlimited students, and basic course creation) | Course creation, LMS, and membership platform tailored for creators, experts, and scaling online academies. |
+| **[TalentLMS](https://www.talentlms.com/)** | Epignosis L.D.C. | ~$150 Million (Est. Valuation / Revenue Scale) | $69/month (Starter plan billed annually for up to 40 users) | Free forever (Free plan supports up to 5 users and 10 courses with basic features) | Cloud LMS for small-to-midsize businesses to rapidly create, deliver, and track corporate training courses. |
+| **[LearnUpon](https://www.learnupon.com/)** | LearnUpon Labs | ~$120 Million (Est. Valuation / Funding Scale) | $1,249/month (Essential tier for up to 150 active users) | 14-Day Free Trial (Custom guided product sandbox trial for L&D teams) | Multi-audience LMS designed for customer education, partner enablement, and internal employee training. |
+| **[iSpring Learn](https://www.ispringsolutions.com/)** | iSpring Solutions Inc. | ~$50 Million (Est. Valuation / Revenue Scale) | $2.87/user/month (Start plan billed annually for 100 users) | 14-Day Free Trial (Unrestricted trial of LMS coupled with iSpring Suite authoring tool) | Turnkey corporate LMS tightly integrated with PowerPoint-based authoring tools for SCORM compliance. |
+| **[itslearning](https://itslearning.com/)** | Sanoma Group | ~$40 Million (Acquisition Valuation) | ~$5.00/student/year (School district licensing starting tier) | 30-Day Free Trial (Teacher sandbox demo account) | European-focused K-12 and higher-ed learning platform for lesson planning, assessments, and parent engagement. |
+| **[Otus](https://otus.com/)** | Otus LLC | ~$25 Million (Est. Valuation) | ~$5.00/student/year (School district tier) | 30-Day Free Trial (Educator trial account for classroom assessment and grading) | K-12 student performance platform unifying assessment engine, gradebook, and learning management system. |
+| **[MoodleCloud](https://moodle.com/)** | Moodle Pty Ltd | ~$20 Million (Est. Annual Revenue) | $130/year (Trial / Starter plan for up to 50 users and 250 MB storage) | 28-Day Free Trial (Fully hosted Moodle instance with up to 50 users, no credit card required) | Officially hosted cloud version of Moodle providing managed instances for teams that prefer not to self-host. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Below are top open-source Learning Management Systems and learning engines, sorted in **descending order by GitHub Star count**.
+
+| Project / Repository | Star Count Badge | Description & Highlights | Primary Tech Stack | License |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Open edX](https://github.com/openedx/edx-platform)** | [<img src="https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white" alt="Open edX Stars"/>](https://github.com/openedx/edx-platform/stargazers) | Massive open-source online learning platform powering edX.org, university MOOCs, and global online learning initiatives. | Python (Django), React | AGPL-3.0 |
+| **[Moodle](https://github.com/moodle/moodle)** | [<img src="https://img.shields.io/github/stars/moodle/moodle?style=social&color=white" alt="Moodle Stars"/>](https://github.com/moodle/moodle/stargazers) | The world's most widely deployed open-source LMS, featuring thousands of plugins, multilingual support, and global community adoption. | PHP, JavaScript | GPL-3.0 |
+| **[Canvas LMS](https://github.com/instructure/canvas-lms)** | [<img src="https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white" alt="Canvas LMS Stars"/>](https://github.com/instructure/canvas-lms/stargazers) | Open-source core of Instructure Canvas LMS. Modern UX, robust REST API, LTI compliance, and rich grading toolset. | Ruby on Rails, React | AGPL-3.0 |
+| **[Oppia](https://github.com/oppia/oppia)** | [<img src="https://img.shields.io/github/stars/oppia/oppia?style=social&color=white" alt="Oppia Stars"/>](https://github.com/oppia/oppia/stargazers) | Open-source interactive online learning platform offering personalized, gamified, and story-based learning experiences. | Python, Angular | Apache-2.0 |
+| **[Frappe LMS](https://github.com/frappe/lms)** | [<img src="https://img.shields.io/github/stars/frappe/lms?style=social&color=white" alt="Frappe LMS Stars"/>](https://github.com/frappe/lms/stargazers) | Modern, lightweight, open-source LMS built on the Frappe framework. Ideal for online courses, job portals, and academies. | Python (Frappe), Vue.js | MIT / AGPL-3.0 |
+| **[Sakai](https://github.com/sakaiproject/sakai)** | [<img src="https://img.shields.io/github/stars/sakaiproject/sakai?style=social&color=white" alt="Sakai Stars"/>](https://github.com/sakaiproject/sakai/stargazers) | Flexible, community-developed learning environment engineered specifically for higher education and university research. | Java, JSF, Web Components | ECL-2.0 |
+| **[Chamilo LMS](https://github.com/chamilo/chamilo-lms)** | [<img src="https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social&color=white" alt="Chamilo LMS Stars"/>](https://github.com/chamilo/chamilo-lms/stargazers) | Accessible, lightweight open-source LMS designed for schools, universities, and non-profit organizations. | PHP, Twig, Vue.js | GPL-3.0 |
+| **[Sensei LMS](https://github.com/Automattic/sensei)** | [<img src="https://img.shields.io/github/stars/Automattic/sensei?style=social&color=white" alt="Sensei LMS Stars"/>](https://github.com/Automattic/sensei/stargazers) | Open-source learning management plugin for WordPress created by Automattic, allowing course creation directly on WP sites. | PHP, JavaScript (WordPress) | GPL-2.0 |
+| **[ILIAS](https://github.com/ILIAS-eLearning/ILIAS)** | [<img src="https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social&color=white" alt="ILIAS Stars"/>](https://github.com/ILIAS-eLearning/ILIAS/stargazers) | Powerful German/European open-source LMS featuring integrated course management, SCORM support, and e-portfolios. | PHP, JavaScript | GPL-3.0 |
+| **[Opencast](https://github.com/opencast/opencast)** | [<img src="https://img.shields.io/github/stars/opencast/opencast?style=social&color=white" alt="Opencast Stars"/>](https://github.com/opencast/opencast/stargazers) | Open-source enterprise video management solution for automated lecture recording, processing, and LMS distribution. | Java, OSGi | ECL-2.0 |
+| **[OpenOLAT](https://github.com/OpenOLAT/OpenOLAT)** | [<img src="https://img.shields.io/github/stars/OpenOLAT/OpenOLAT?style=social&color=white" alt="OpenOLAT Stars"/>](https://github.com/OpenOLAT/OpenOLAT/stargazers) | Swiss open-source LMS for teaching, learning, assessment, and communication with sophisticated workflow support. | Java, Spring, HTML5 | Apache-2.0 |
+| **[Forma LMS](https://github.com/formalms/formalms)** | [<img src="https://img.shields.io/github/stars/formalms/formalms?style=social&color=white" alt="Forma LMS Stars"/>](https://github.com/formalms/formalms/stargazers) | Open-source corporate LMS focused on enterprise training, skills management, and corporate compliance certification. | PHP, MySQL | GPL-2.0 |
+
+---
+
+## 💡 Decision Guide: Open Source vs SaaS
+
+- **Choose Moodle** for maximum flexibility, extensive plugin support, self-hosting privacy, and zero vendor lock-in.
+- **Choose Open edX** when building large-scale MOOCs, multi-tenant university portals, or interactive video-centric courses.
+- **Choose Canvas LMS (Self-Hosted)** when you want the modern Instructure interface with full self-managed server control.
+- **Choose Frappe LMS / Sensei LMS** when deploying small-to-medium learning platforms built on top of Frappe or WordPress ecosystems.
+- **Choose Commercial SaaS (Canvas, Google Classroom, Docebo, TalentLMS)** when SLA guarantees, turnkey security compliance (SOC 2, FERPA, GDPR), 24/7 technical support, and rapid deployment are top priorities.
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork this repository.
+2. Edit `README.md` with your suggested additions or corrections.
+3. Ensure entries adhere to factual formatting, include star counts or pricing data, and link to official resources.
+4. Submit a Pull Request (PR) with a short rationale.
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated list** — it is not exhaustive and does not constitute an endorsement.
+- Learning platforms store sensitive personal student data and must comply with regulatory frameworks (e.g., FERPA, GDPR, COPPA, WCAG 2.1 accessibility). Always perform technical and legal due diligence before deploying any platform.
+
+---
+
+## 💖 Support & Community
+
+Thank you for visiting and supporting this curated resource! If you find this repository helpful for your research, teaching, enterprise training, or edtech development, please consider showing your support:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🔀 **Fork** it to contribute additions or keep your own reference copy.
+- 📢 **Share** it with fellow educators, instructional designers, and software engineers.
+- ☕ **Buy Me a Coffee**: If you'd like to support the ongoing maintenance and curation of open-source resources, feel free to sponsor via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007) or [Buy Me a Coffee](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Learning-Management-System&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Learning-Management-System&type=date&legend=top-left)
+
+---
+
+**Made with ❤️ for educators, instructional designers, L&D professionals, and edtech developers.**
