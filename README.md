@@ -65,9 +65,9 @@ Below is a detailed breakdown of top commercial and SaaS LMS vendors, sorted in 
 
 ## 💻 Open-Source GitHub Projects
 
-Below are top open-source Learning Management Systems and learning engines, sorted in **descending order by GitHub Star count**.
+Below are top open-source Learning Management Systems and learning engines, sorted in **descending order by GitHub Stars_Count**.
 
-| Project / Repository | Star Count Badge | Description & Highlights | Primary Tech Stack | License |
+| Project / Repository | Stars_Count Badge | Description & Highlights | Primary Tech Stack | License |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Open edX](https://github.com/openedx/edx-platform)** | [<img src="https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white" alt="Open edX Stars"/>](https://github.com/openedx/edx-platform/stargazers) | Massive open-source online learning platform powering edX.org, university MOOCs, and global online learning initiatives. | Python (Django), React | AGPL-3.0 |
 | **[Moodle](https://github.com/moodle/moodle)** | [<img src="https://img.shields.io/github/stars/moodle/moodle?style=social&color=white" alt="Moodle Stars"/>](https://github.com/moodle/moodle/stargazers) | The world's most widely deployed open-source LMS, featuring thousands of plugins, multilingual support, and global community adoption. | PHP, JavaScript | GPL-3.0 |
@@ -98,7 +98,7 @@ Below are top open-source Learning Management Systems and learning engines, sort
 
 1. Fork this repository.
 2. Edit `README.md` with your suggested additions or corrections.
-3. Ensure entries adhere to factual formatting, include star counts or pricing data, and link to official resources.
+3. Ensure entries adhere to factual formatting, include Stars_Counts or pricing data, and link to official resources.
 4. Submit a Pull Request (PR) with a short rationale.
 
 ---
